@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Application-wide Styles */
 h1 {
     color: #369;
@@ -73,3 +74,6 @@ h1 {
     margin-right: .8em;
     border-radius: 4px 0 0 4px;
   }
+=======
+/* You can add global styles to this file, and also import other style files */
+>>>>>>> 47d8bc1217c69b16606ac963ca284a626b1a9b76
