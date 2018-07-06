@@ -1,0 +1,6 @@
+<button (click)="goBack()">go back</button><br>
+<ul *ngIf="selectedHero"> 
+    <li>
+        <span class="badge">{{selectedHero.id}}</span> <input type="text" [(ngModel)]="selectedHero.name" />
+    </li>
+</ul>
